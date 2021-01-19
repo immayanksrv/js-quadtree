@@ -2,6 +2,8 @@
 ![Image of quadtree]
 (https://github.com/immayanksrv/js-quadtree/blob/main/images/buffer.png)
 
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 QuadTree implementation in Typescript
 
 ref: https://en.wikipedia.org/wiki/Quadtree
