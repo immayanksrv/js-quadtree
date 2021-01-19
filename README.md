@@ -1,6 +1,6 @@
 # js-quadtree
 
-QuadTree implemtation in Typescript
+QuadTree implementation in Typescript
 
 ref: https://en.wikipedia.org/wiki/Quadtree
 
