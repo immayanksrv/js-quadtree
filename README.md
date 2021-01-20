@@ -8,7 +8,7 @@ include p5.js for visual representation
 
 use case: find all the points inside a buffer.
 
-(https://immayanksrv.github.io/js-quadtree/)
+[demo live](https://immayanksrv.github.io/js-quadtree/)
 
 
 
